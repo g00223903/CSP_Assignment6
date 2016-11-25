@@ -1,7 +1,7 @@
 // Fig. 8.36: CloudscapeDataAccess.java
 // An implementation of interface AddressBookDataAccess that 
 // performs database operations with PreparedStatements.
-package com.deitel.advjhtp1.jdbc.addressbook;
+
 
 // Java core packages
 import java.sql.*;

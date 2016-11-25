@@ -2,7 +2,7 @@
 // A subclass of JInternalFrame customized to display and 
 // an AddressBookEntry or set an AddressBookEntry's properties
 // based on the current data in the UI.
-package com.deitel.advjhtp1.jdbc.addressbook;
+
 
 // Java core packages
 import java.util.*;

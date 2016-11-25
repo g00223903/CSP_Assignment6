@@ -3,7 +3,7 @@
 // be inserted, updated and deleted. The example uses 
 // transactions to ensure that the operations complete 
 // successfully.
-package com.deitel.advjhtp1.jdbc.addressbook;
+
 
 // Java core packages
 import java.awt.*;

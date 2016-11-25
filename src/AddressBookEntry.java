@@ -1,6 +1,6 @@
 // Fig. 8.33: AddressBookEntry.java
 // JavaBean to represent one address book entry.
-package com.deitel.advjhtp1.jdbc.addressbook;
+
 
 public class AddressBookEntry {
    private String firstName = "";

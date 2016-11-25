@@ -1,7 +1,7 @@
 // Fig. 8.34: AddressBookDataAccess.java
 // Interface that specifies the methods for inserting,
 // updating, deleting and finding records.
-package com.deitel.advjhtp1.jdbc.addressbook;
+
 
 // Java core packages
 import java.sql.*;
